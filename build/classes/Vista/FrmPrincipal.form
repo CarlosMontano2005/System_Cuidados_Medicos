@@ -1521,7 +1521,7 @@
                       <Font name="Times New Roman" size="18" style="1"/>
                     </Property>
                     <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                      <Color blue="ff" green="33" red="cc" type="rgb"/>
+                      <Color blue="53" green="53" red="53" type="rgb"/>
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="2"/>
                     <Property name="text" type="java.lang.String" value="&#xa1;Hola que feliz de verte de nuevo! "/>

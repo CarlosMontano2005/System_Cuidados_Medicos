@@ -920,7 +920,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
 
         LblInfoPantalla.setBackground(new java.awt.Color(83, 83, 83));
         LblInfoPantalla.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
-        LblInfoPantalla.setForeground(new java.awt.Color(204, 51, 255));
+        LblInfoPantalla.setForeground(new java.awt.Color(83, 83, 83));
         LblInfoPantalla.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         LblInfoPantalla.setText("¡Hola que feliz de verte de nuevo! ");
         LblInfoPantalla.setToolTipText("");
