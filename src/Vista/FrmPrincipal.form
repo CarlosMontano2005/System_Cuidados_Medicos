@@ -1524,7 +1524,7 @@
                       <Color blue="53" green="53" red="53" type="rgb"/>
                     </Property>
                     <Property name="horizontalAlignment" type="int" value="2"/>
-                    <Property name="text" type="java.lang.String" value="&#xa1;Hola que feliz de verte de nuevo! "/>
+                    <Property name="text" type="java.lang.String" value="CAAAAAAAAAAAAAAAAAAAAAA"/>
                     <Property name="toolTipText" type="java.lang.String" value=""/>
                     <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
                       <Dimension value="[100, 19]"/>
